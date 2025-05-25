@@ -15,6 +15,11 @@ https://discord.gg/rXdUhSNbhg
 
 ---
 
+## 🏷️ Tags
+#Bloxburg #BloxburgScript #Azurix #AutoBuild #RobloxScript #ScriptBlox #BloxburgTools
+
+
+
 ## 🚀 How to Use
 
 Paste this into your executor (Swift, Volcank, KRNL, Delta):
